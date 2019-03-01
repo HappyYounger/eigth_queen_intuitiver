@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/eight_queens/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
